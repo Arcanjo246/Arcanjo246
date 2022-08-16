@@ -1,5 +1,5 @@
 # Eu sou o Jhonatan 
-### alone 
+###  
 
 <!--
 **Arcanjo246/Arcanjo246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/110929006/184942710-111ef9d4-01a2-48dc-9242-ddbddc2acbbe.png)
